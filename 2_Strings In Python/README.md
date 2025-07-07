@@ -9,7 +9,6 @@
    .startswith(), .endswith(), .count()
 5. Iterating through strings using for loop
 6. Escape sequences (\n, \t, \", \\)
-7. Real-life examples (name checker, login form, etc.)
 
 ---
 
