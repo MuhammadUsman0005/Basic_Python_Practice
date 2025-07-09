@@ -9,6 +9,7 @@ This folder contains all important concepts and real-world programs related to P
 - Using conditions inside while
 - Using break and continue
 - While loop mini projects
+- Nested while loop
 
 ---
 
