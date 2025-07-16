@@ -20,8 +20,6 @@ Lists are used to store multiple items in a single variable. Common use cases:
 
 ## ✅ Topics Covered:
 - Creating a list
-- Accessing list items (indexing/slicing)
 - Looping through lists
 - Useful list methods (append, insert, remove, sort, reverse, etc.)
 - Nested lists
-- Real-life practice programs
